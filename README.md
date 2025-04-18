@@ -8,7 +8,7 @@
 
 ### 🧠 Tech Stack & Tools
 
-- 💡 Languages: **JavaScript**, **TypeScript**, C++
+- 💡 Languages: **JavaScript**
 - 🧩 Frontend: **React.js**, **Tailwind CSS**, Redux, HTML, CSS
 - ⚙️ Backend: **Node.js**, **Express.js**
 - 🗄️ Database: **MongoDB**, Firebase
@@ -31,7 +31,7 @@
 
 ### 📜 Certificates
 
-- ✅ Full Stack Development Certificate by Apna College  
+- ✅ Full Stack Development Certificate by Shreyansh Coding School
   *Covers React.js, Node.js, MongoDB, Express, REST APIs, and more.*
 
 ---
