@@ -17,7 +17,7 @@
 
 ## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,redux,tailwind,html,css,nodejs,express,mongodb,firebase,git,github,vscode,postman,figma" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=js,react,redux,tailwind,html,css,nodejs,express,mongodb,firebase,git,github,vscode,postman," alt="Tech Stack" />
 
 ---
 
@@ -41,9 +41,9 @@ _Covered: React.js, Node.js, Express, MongoDB, APIs, Deployment_
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avinash-kumar-upadhyaya&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avinash-kumar-upadhyaya&theme=radical" width="45%" />
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=avinash-kumar-upadhyaya&theme=react-dark" width="90%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=avinash07582&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avinash07582&theme=radical" width="45%" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=avinash07582&theme=react-dark" width="90%"/>
 </div>
 
 ---
@@ -51,9 +51,9 @@ _Covered: React.js, Node.js, Express, MongoDB, APIs, Deployment_
 ## 🌐 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/avinash-upadhyaya" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="30"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://skillicons.dev/icons?i=gmail" width="30"/></a>
-  <a href="https://github.com/avinash-kumar-upadhyaya" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="30"/></a>
+  <a href="https://www.linkedin.com/in/avinash-upadhyay" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="30"/></a>
+  <a href="mailto:avinashkmr5528@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="30"/></a>
+  <a href="https://github.com/avinash07582" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="30"/></a>
 </p>
 
 
