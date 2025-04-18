@@ -33,7 +33,7 @@
 
 ## 📜 Certifications
 
-📘 **Full Stack Development - Apna College**  
+📘 **Full Stack Development - Shreyansh Coding School**  
 _Covered: React.js, Node.js, Express, MongoDB, APIs, Deployment_
 
 ---
