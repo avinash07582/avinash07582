@@ -1,58 +1,61 @@
 <h2>Hey there! 👋 I'm Avinash Kumar Upadhyay</h2>
 
-💻 I'm a passionate Full Stack Developer currently pursuing B.Tech.  
-🚀 I love building real-world web applications with modern tech stacks.  
-🛠️ Currently exploring the power of AI and building tools that make life easier.
+
+
+<!-- Banner Image -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1DBF73&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Avinash+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;AI+Enthusiast+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
+
+## 🧑‍💻 About Me
+
+- 🎓 B.Tech student & passionate **Full Stack Developer**
+- 🔭 Currently working on AI-powered web apps
+- 💬 Ask me about **MERN Stack, APIs, Authentication, or AI integrations**
+- 🌱 Learning: TypeScript, System Design, and Next.js
+- ⚡ Fun fact: I can debug your bug faster than you can say "console.log" 😉
 
 ---
 
-### 🧠 Tech Stack & Tools
+## 🛠️ Tech Stack
 
-- 💡 Languages: **JavaScript**
-- 🧩 Frontend: **React.js**, **Tailwind CSS**, Redux, HTML, CSS
-- ⚙️ Backend: **Node.js**, **Express.js**
-- 🗄️ Database: **MongoDB**, Firebase
-- ☁️ Dev Tools: Git, GitHub, Postman, VS Code
-- 🔐 Authentication: Google OAuth, JWT
-- 💳 Payments: Razorpay
-- 🤖 AI: Gemini API, OpenAI
+<img src="https://skillicons.dev/icons?i=js,ts,react,redux,tailwind,html,css,nodejs,express,mongodb,firebase,git,github,vscode,postman,figma" alt="Tech Stack" />
 
 ---
 
-### 🔥 Projects I'm Proud Of
+## 🚀 Featured Projects
 
-- 🚀 **Cineverse** – A movie app built with React, Redux, and APIs.
-- 🛍️ **Blinkit Clone** – A full-stack grocery app with payments & Google OAuth.
-- 🤖 **AI Resume Builder** – Build smart resumes using AI suggestions.
-- 🧠 **Code Reviewer** – AI tool to review and suggest improvements in your code.
-- 💼 **Job Portal** – A MERN stack job listing and application portal.
-
----
-
-### 📜 Certificates
-
-- ✅ Full Stack Development Certificate by Shreyansh Coding School
-  *Covers React.js, Node.js, MongoDB, Express, REST APIs, and more.*
+- 🎬 **Cineverse** – Movie web app using React + Redux + APIs  
+- 🛒 **Blinkit Clone** – Grocery app w/ Google OAuth + Razorpay  
+- 📄 **AI Resume Builder** – Smart resume builder using Gemini AI  
+- 🧠 **Code Reviewer** – AI tool to review code with suggestions  
+- 💼 **Job Portal** – MERN-based platform for job seekers & recruiters
 
 ---
 
-### 🌱 Currently Learning
+## 📜 Certifications
 
-- ⚛️ TypeScript in React
-- 🧠 System Design
-- 📱 Mobile-first web development
-
----
-
-### 📫 Let's Connect
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/avinash-upadhyaya)
-- 💬 [Portfolio](#) (coming soon!)
-- 📧 Email: avinash@example.com
+📘 **Full Stack Development - Apna College**  
+_Covered: React.js, Node.js, Express, MongoDB, APIs, Deployment_
 
 ---
 
-_“Code is like humor. When you have to explain it, it’s bad.”_
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=avinash-kumar-upadhyaya&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avinash-kumar-upadhyaya&theme=radical" width="45%" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=avinash-kumar-upadhyaya&theme=react-dark" width="90%"/>
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/avinash-upadhyaya" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="30"/></a>
+  <a href="mailto:youremail@example.com"><img src="https://skillicons.dev/icons?i=gmail" width="30"/></a>
+  <a href="https://github.com/avinash-kumar-upadhyaya" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="30"/></a>
+</p>
+
 
 
 
