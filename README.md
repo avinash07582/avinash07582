@@ -1,4 +1,4 @@
-<h2>Hey there! 👋 I'm Avinash Kumar Upadhyaya</h2>
+<h2>Hey there! 👋 I'm Avinash Kumar Upadhyay</h2>
 
 💻 I'm a passionate Full Stack Developer currently pursuing B.Tech.  
 🚀 I love building real-world web applications with modern tech stacks.  
